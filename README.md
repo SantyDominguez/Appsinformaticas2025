@@ -53,8 +53,3 @@ A lo largo del cuatrimestre se irán sumando:
 ---
 
 > Este repositorio irá creciendo a medida que avance la materia. ¡Seguime para ver el progreso! 😄
-```
-
----
-
-¿Querés que lo haga más corto, más técnico o más “fachero” visualmente? También puedo generar una imagen o banner para el README.
